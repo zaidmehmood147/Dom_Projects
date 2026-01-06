@@ -1,24 +1,35 @@
 body {
+    background-image: url(./pexels-felix-mittermeier-956999.jpg);
     background-color: rgb(28, 87, 28);
 }
 .maindiv {
+   background-color:  rgba(255, 255, 255, 0.1);
     text-align: center;
     justify-content: center;
     margin-top: 150px;
-    background-color: rgb(158, 158, 99);
-    margin-left: 400px;
-    margin-right: 400px;
+    backdrop-filter: blur(10px);
+    /* background-color: rgb(158, 158, 99); */
+    margin-left: 20vw;
+    margin-right: 20vw;
     border-radius: 40px ;
     padding: 50px;
     border:  1px solid black;
+    color: white;
 
 }
 .counter {
     font-size: 40px;
 }
-.btn { 
+.btn { margin-top: 10px;
    color: black;
     font-size: 20px;
     background-color: beige;
     border-radius: 20px;
+    
+    display: flex;         
+    flex-direction: row;    
+    justify-content: center; 
+    align-items: center;   
+    gap: 10px;            
+    width: 100%;
 }
