@@ -16,3 +16,4 @@ function refresh( ) {
     counter = counter * 0;
     countingnum.innerText = counter ;
 }
+//
