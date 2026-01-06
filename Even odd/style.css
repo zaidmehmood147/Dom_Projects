@@ -1,7 +1,7 @@
 body{
-    background-image: url(./pexels-felix-mittermeier-956999.jpg);
+    /* background-image: url(./pexels-felix-mittermeier-956999.jpg); */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    background-color: rgb(0, 0, 0);
 }
 .maindiv{
   background-color:  rgba(255, 255, 255, 0.1);
