@@ -1,7 +1,7 @@
 body{
-    background-image: url(./artistic-blurry-colorful-wallpaper-background.jpg);
+    /* background-image: url(./artistic-blurry-colorful-wallpaper-background.jpg); */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color:rgba(10, 10, 31, 1);
     color: white;
     justify-content: center;
 }
