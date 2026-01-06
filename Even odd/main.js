@@ -2,6 +2,7 @@
 
 function checkNum() {
   var num = Number(document.getElementById("num").value);
+
  
    
   if(num === 0){
